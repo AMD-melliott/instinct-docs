@@ -16,7 +16,7 @@ scientific innovation with ROCm-LS and realize the full potential of your resear
 
 ::::{grid-item-card}
 :padding: 1
-:img-top: ../images/hipDF.jpg
+:img-top: ../images/hipCIM.jpg
 :class-img-top: small-sd-card-img-top
 :class-body: small-sd-card
 :class: small-sd-card
@@ -24,7 +24,7 @@ scientific innovation with ROCm-LS and realize the full potential of your resear
 <a href=./hipDF.html class="card-header-link">
   <h2 class="card-header">hipCIM</h2>
 </a>
-<p class="paragraph"> GPU Accelerated DataFrames to enhance your data manipulation and analysis tasks with AMD Instinct™ GPUs.
+<p class="paragraph"> GPU Accelerated image processing and computer vision for multidimensional images on AMD Instinct™ GPUs.
 .</p>
 ::::
 
@@ -44,15 +44,15 @@ scientific innovation with ROCm-LS and realize the full potential of your resear
 
 ::::{grid-item-card}
 :padding: 1
-:img-top: ../images/ROCm-LS_Blogs.jpg
+:img-top: ../images/ROCm-LS_Docs.jpg
 :class-img-top: small-sd-card-img-top
 :class-body: small-sd-card
 :class: small-sd-card
 +++
-<a href=./ROCmLS-Blogs.html class="card-header-link">
-  <h2 class="card-header">ROCm-LS Blogs</h2>
+<a href="https://rocm.docs.amd.com/projects/rocm-ls/en/latest/" class="card-header-link">
+  <h2 class="card-header">ROCm-LS Documentation</h2>
 </a>
-<p class="paragraph"> Browse through blogs related to ROCm-LS and its individual components.
+<p class="paragraph"> View the latest ROCm-LS documentation, including installation instructions and API reference guides, on ROCm Docs.
 </p>
 ::::
 
