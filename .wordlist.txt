@@ -43,3 +43,6 @@ DataFrames
 CuPy
 Markowitz
 cuDF
+hipCIM
+cuCIM
+transformative
