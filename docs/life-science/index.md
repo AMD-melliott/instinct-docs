@@ -1,5 +1,17 @@
 # ROCm-LS: ROCm Toolkit for Life Sciences
 
+Unlock the transformative power of the ROCm Life Science Toolkit (ROCm-LS), an innovative and robust open-source toolkit built on top of the powerful ROCm™
+platform. Designed with the medical and life sciences fields in mind, ROCm-LS maximizes the computational capabilities of AMD Instinct™ GPUs, enabling you
+to execute both new and existing workloads with exceptional speed and efficiency.
+
+Be a part of the revolution in life sciences research powered by GPUs with the rapidly expanding ROCm-LS suite of tools, empowering researchers and medical
+professionals to tackle critical tasks and solve real-world challenges. Fully utilize ROCm-LS to push the boundaries of what is possible in medical and life
+science research and to accelerate critical life-saving tasks.
+
+Dive into a future where medical breakthroughs are accelerated with precision, and solutions to humanity's most pressing health challenges are within arm's
+reach. With AMD's powerful Instinct GPUs backing your workloads, ROCm-LS empowers innovation that has the potential to change lives. Join the forefront of
+scientific innovation with ROCm-LS and realize the full potential of your research endeavors today!
+
 :::::{grid} 2 2 2 2
 
 ::::{grid-item-card}
