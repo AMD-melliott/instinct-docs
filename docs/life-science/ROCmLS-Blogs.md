@@ -42,7 +42,7 @@ products.
 <a href="https://advanced-micro-devices-rocm-blogs--1094.com.readthedocs.build/projects/internal/en/1094/software-tools-optimization/hipcim-intro/README.html" class="card-header-link">
   <h2 class="card-header">Announcing hipCIM: A Cutting-Edge Solution for Accelerated Multidimensional Image Processing</h2>
 </a>
-<p class="paragraph"> Fully utilize the power of AMDs Instinct GPUs to process and interpret detailed multidimensional images with lightning speed.
+<p class="paragraph"> Fully utilize the power of AMD's Instinct GPUs to process and interpret detailed multidimensional images with lightning speed.
 </p>
 :::
 
