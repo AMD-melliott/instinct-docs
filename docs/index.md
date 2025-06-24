@@ -156,6 +156,20 @@ The AMD Instinct Documentation site provides comprehensive guides and technical 
 </p>
 :::
 
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/ROCm-LS_Blogs.jpg
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href=./life-science/ROCmLS-Blogs.html class="card-header-link">
+  <h2 class="card-header">Blogs</h2>
+</a>
+<p class="paragraph"> Browse blogs detailing how to accelerate your life science workloads on AMD Instinct™ GPUs.
+</p>
+:::
+
 ::::
 
 :::::::
