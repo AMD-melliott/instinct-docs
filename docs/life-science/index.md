@@ -21,7 +21,7 @@ scientific innovation with ROCm-LS and realize the full potential of your resear
 :class-body: small-sd-card
 :class: small-sd-card
 +++
-<a href=./hipDF.html class="card-header-link">
+<a href=./hipCIM.html class="card-header-link">
   <h2 class="card-header">hipCIM</h2>
 </a>
 <p class="paragraph"> GPU Accelerated image processing and computer vision for multidimensional images on AMD Instinct™ GPUs.
