@@ -15,7 +15,7 @@
 
 ## Supported Versions
 
-- 2025 R1
+- 2025 R1 & R2
 - 2024 R1 & R2
 - 2023 R2
 
