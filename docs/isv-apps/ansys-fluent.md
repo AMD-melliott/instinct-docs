@@ -20,6 +20,7 @@ Ansys Fluent is the industry-leading CFD software tool widely used across aerosp
 - [AMD Infinity Hub Recipe](https://github.com/amd/InfinityHub-CI/tree/main/ansys-fluent)
 
 ## Related News
+
 - [Groundbreaking Achievement with CFD Simulation on AMD GPUs](https://www.ansys.com/blog/ansys-baker-hughes-groundbreaking-cfd-simulation)
 - [AMD Ansys Partnership](https://www.ansys.com/partner-ecosystem/high-performance-computing-partners/amd)
 - [Boosting Computational Fluid Dynamics Performance with AMD Instinct™ MI300X](https://rocm.blogs.amd.com/ecosystems-and-partners/ansys-fluent-performance/README.html)
