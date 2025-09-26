@@ -80,10 +80,12 @@ subtrees:
       title: Cluster
       subtrees:
         - entries:
+          - url: https://account.amd.com/en/forms/registration/enterpriseai-ea.html
+            title: Enterprise AI
           - url: https://instinct.docs.amd.com/projects/gpu-cluster-networking/en/latest/
             title: Networking                                                                      
           - url: https://amdresearch.github.io/omnistat/
-            title: Omnistat   
+            title: Omnistat
     - file: system-admin/cloud.md
       title: Cloud
       subtrees:
