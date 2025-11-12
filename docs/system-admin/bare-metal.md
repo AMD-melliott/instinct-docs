@@ -64,7 +64,7 @@
 <a href="https://instinct.docs.amd.com/projects/system-acceptance/en/latest/" class="card-header-link">
   <h2 class="card-header">Instinct Customer Acceptance Guide</h2>
 </a>
-<p class="paragraph">Comprehensive guide that provides a structured, repeatable methodology for configuring, validating, benchmarking, and baselining AMD Instinct™ GPU platforms at both single-node and multi-node (cluster) levels.</p>
+<p class="paragraph">Comprehensive guide for configuring, validating, benchmarking, and baselining AMD Instinct™ GPUs.</p>
 :::
 
 :::{grid-item-card}
