@@ -60,7 +60,7 @@ subtrees:
             title: AMD GPU Driver
           - url: https://rocm.docs.amd.com/projects/amdsmi/en/latest/
             title: AMD-SMI
-          - url: https://rocm.docs.amd.com/projects/cvs/en/docs/index.html
+          - url: https://rocm.docs.amd.com/projects/cvs/en/latest/index.html
             title: Cluster Validation Suite                             
           - url: https://rocm.blogs.amd.com/software-tools-optimization/compute-memory-modes/README.html
             title: GPU Partitioning
