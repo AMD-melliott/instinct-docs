@@ -369,6 +369,19 @@ The AMD Instinct Documentation site provides comprehensive guides and technical 
 <p class="paragraph">Comprehensive guide for configuring, validating, benchmarking, and baselining AMD Instinct™ GPUs.</p>
 :::
 
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/gpu-operator.jpg
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href="https://rocm.docs.amd.com/projects/cvs/en/latest/index.html" class="card-header-link">
+  <h2 class="card-header">Cluster Validation Suite</h2>
+</a>
+<p class="paragraph">CVS is a collection of test scripts that validate AMD AI clusters.</p>
+:::
+
 ::::
 
 :::::

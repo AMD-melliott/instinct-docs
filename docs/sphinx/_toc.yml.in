@@ -58,14 +58,16 @@ subtrees:
         - entries:
           - url: https://instinct.docs.amd.com/projects/amdgpu-docs/en/latest/
             title: AMD GPU Driver
+          - url: https://rocm.docs.amd.com/projects/amdsmi/en/latest/
+            title: AMD-SMI
+          - url: https://rocm.docs.amd.com/projects/cvs/en/latest/index.html
+            title: Cluster Validation Suite                             
           - url: https://rocm.blogs.amd.com/software-tools-optimization/compute-memory-modes/README.html
             title: GPU Partitioning
-          - url: https://rocm.docs.amd.com/projects/amdsmi/en/latest/
-            title: AMD-SMI                                    
+          - url: https://instinct.docs.amd.com/projects/system-acceptance/en/latest/
+            title: Instinct Customer Acceptance Guide                                  
           - url: https://rocm.docs.amd.com/projects/ROCmValidationSuite/en/latest/ 
             title: ROCm Validatation Suite
-          - url: https://instinct.docs.amd.com/projects/system-acceptance/en/latest/
-            title: Instinct Customer Acceptance Guide             
     - file: system-admin/co-tools.md
       title: Containers and Orchestration Tools
       subtrees:
