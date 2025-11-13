@@ -376,7 +376,7 @@ The AMD Instinct Documentation site provides comprehensive guides and technical 
 :class-body: small-sd-card
 :class: small-sd-card
 +++
-<a href="https://rocm.docs.amd.com/projects/cvs/en/docs/index.html" class="card-header-link">
+<a href="https://rocm.docs.amd.com/projects/cvs/en/latest/index.html" class="card-header-link">
   <h2 class="card-header">Cluster Validation Suite</h2>
 </a>
 <p class="paragraph">CVS is a collection of test scripts that validate AMD AI clusters.</p>
