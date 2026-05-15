@@ -3,7 +3,7 @@ html_theme.sidebar_secondary.remove: true
 ---
 # AMD Instinct Data Center GPU Documentation
 
-The AMD Instinct Documentation site provides comprehensive guides and technical documentation for system administrators and technical users deploying AMD Instinct Data Center GPUs in enterprise environments. This site focuses on large-scale deployment, cluster management, monitoring, and operational best practices for both HPC and AI workloads. For API documentation and core software stack details, please visit the [ROCm documentation](https://rocm.docs.amd.com).
+The AMD Instinct Documentation site provides comprehensive guides and technical documentation for system administrators and technical users deploying AMD Instinct Data Center GPUs in enterprise environments. This site focuses on large-scale deployment, cluster management, monitoring, and operational best practices for both HPC and AI workloads. For API documentation and core software stack details, visit the [ROCm documentation](https://rocm.docs.amd.com).
 
 ::::::::::{dropdown} Industries/Verticals
 :open:
@@ -159,6 +159,112 @@ The AMD Instinct Documentation site provides comprehensive guides and technical 
   <h2 class="card-header">Blogs</h2>
 </a>
 <p class="paragraph"> Browse blogs detailing how to accelerate your data science workloads on AMD Instinct™ GPUs.
+</p>
+:::
+
+::::
+
+:::::::
+
+:::::::{tab-item} Finance
+
+::::{grid} 2 2 3 4
+
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/finance-6.png
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href=./finance/index.html class="card-header-link">
+  <h2 class="card-header">ROCm-Finance</h2>
+</a>
+<p class="paragraph"> Boost your financial workloads with the ROCm Toolkit for Finance (ROCm-Finance).
+</p>
+:::
+
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/finance-5.png
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href=./finance/xgboost.html class="card-header-link">
+  <h2 class="card-header">XGBoost</h2>
+</a>
+<p class="paragraph"> General-purpose GPU gradient boosting. Start here for high-performance workloads for data-intensive applications.
+</p>
+:::
+
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/finance-10.png
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href=./finance/lightgbm.html class="card-header-link">
+  <h2 class="card-header">LightGBM</h2>
+</a>
+<p class="paragraph"> Leaf-wise training is the way to go. LightGBM is a strong fit when sparsity abounds and dataset size drives the bottleneck.
+</p>
+:::
+
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/finance-8.png
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href=./finance/thundergbm.html class="card-header-link">
+  <h2 class="card-header">ThunderGBM</h2>
+</a>
+<p class="paragraph"> GPU-oriented boosting for highly parallel, GPU-intensive training and simulation-style runs on high-dimensional datasets.
+</p>
+:::
+
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/finance-4.png
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href="https://github.com/ROCm/ROCm-Finance" class="card-header-link">
+  <h2 class="card-header">GitHub</h2>
+</a>
+<p class="paragraph"> Source for all ROCm-Finance libraries on GitHub.
+</p>
+:::
+
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/finance-9.png
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href="https://github.com/ROCm/rocm-finance/tree/release/26.01/examples" class="card-header-link">
+  <h2 class="card-header">Examples</h2>
+</a>
+<p class="paragraph"> Runnable examples on GitHub to explore the code.
+</p>
+:::
+
+:::{grid-item-card}
+:padding: 1
+:img-top: ./images/finance-7.png
+:class-img-top: small-sd-card-img-top
+:class-body: small-sd-card
+:class: small-sd-card
++++
+<a href=./finance/finance-blogs.html class="card-header-link">
+  <h2 class="card-header">ROCm-Finance Blogs</h2>
+</a>
+<p class="paragraph"> Browse blogs detailing how to accelerate your finance workloads using gradient boosting on AMD Instinct GPUs.
 </p>
 :::
 

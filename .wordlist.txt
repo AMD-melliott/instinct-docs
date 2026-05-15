@@ -49,6 +49,11 @@ cuDF
 hipCIM
 cuCIM
 MONAI
+LightGBM
+Runnable
+ThunderGBM
+ROCm's
+microstructure
 transformative
 latencies
 ACEs
